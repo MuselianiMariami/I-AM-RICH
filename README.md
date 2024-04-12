@@ -11,8 +11,8 @@ The developer then released a "Lite" version for a "bargain" $9.99. And guess wh
 <br/>
 <br/>
 <div align="center">
-<img src="https://github.com/MuselianiMariami/I-AM-RICH/assets/137683336/e711c3a5-3efa-4abc-9323-3cac6808a729" height="700" width="300"/>
+<img src="https://github.com/MuselianiMariami/I-AM-RICH/assets/137683336/e711c3a5-3efa-4abc-9323-3cac6808a729" height="500" width="300"/>
   <span>...</span>
-<img src="https://github.com/MuselianiMariami/I-AM-RICH/assets/137683336/205be348-c5ce-4e25-a9c0-d0d91facc07f" width="300"/>
+<img src="https://github.com/MuselianiMariami/I-AM-RICH/assets/137683336/205be348-c5ce-4e25-a9c0-d0d91facc07f" height="500" width="300"/>
 </div>
 
